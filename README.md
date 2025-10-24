@@ -1,2 +1,2 @@
 # DSA-IN-C
-A foundational level DSA course in c for college exams
+A foundational level DSA course in C for college exams
